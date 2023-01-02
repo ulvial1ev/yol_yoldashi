@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1057068927210",
+    "firebase_url": "https://yolyoldashi-d32dd-default-rtdb.firebaseio.com",
+    "project_id": "yolyoldashi-d32dd",
+    "storage_bucket": "yolyoldashi-d32dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1057068927210:android:adac806aabc4fc03ae2f93",
+        "android_client_info": {
+          "package_name": "com.byulvi.yolyolda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1057068927210-k2sgjjcjtol3anlhqau53q1amff4roe0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.byulvi.yolyolda",
+            "certificate_hash": "ae4a9017bb39a242951ec21655e5aee3c3681158"
+          }
+        },
+        {
+          "client_id": "1057068927210-9kuf3luav35rs3pqi1u1bbilv2ak0jvd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTq0CbJAzmfu5uj2ixIIpevci1Odg8SeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1057068927210-9kuf3luav35rs3pqi1u1bbilv2ak0jvd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
