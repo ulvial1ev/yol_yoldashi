@@ -6,7 +6,7 @@ Created by Ulvi Aliyev. AZE BKU.
 This app is my first database integrated project. Created in 2021/01/22.
 I used firebase database as an initiator( you can see it in the source code)
 and added custom layouts to maintain minimalistic look. This is one of my
-earlisest projects.
+earliest projects.
 
 The app is called "Yol Yoldaşı" and it allows users to plan
 and organize trips with others. When creating a trip, users
