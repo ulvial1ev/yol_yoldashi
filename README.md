@@ -1,7 +1,6 @@
 
 # Yol yoldaşı.
 
-Created by Ulvi Aliyev. AZE BKU.
 
 This app is my first database integrated project. Created in 2021/01/22.
 I used firebase database as an initiator( you can see it in the source code)
